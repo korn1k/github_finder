@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github_finder_react_2020_2021/static/css/main.bc1a1419.chunk.css",
+    "main.js": "/github_finder_react_2020_2021/static/js/main.35435e14.chunk.js",
+    "main.js.map": "/github_finder_react_2020_2021/static/js/main.35435e14.chunk.js.map",
+    "runtime-main.js": "/github_finder_react_2020_2021/static/js/runtime-main.d04fe9f4.js",
+    "runtime-main.js.map": "/github_finder_react_2020_2021/static/js/runtime-main.d04fe9f4.js.map",
+    "static/js/2.30d23f95.chunk.js": "/github_finder_react_2020_2021/static/js/2.30d23f95.chunk.js",
+    "static/js/2.30d23f95.chunk.js.map": "/github_finder_react_2020_2021/static/js/2.30d23f95.chunk.js.map",
+    "index.html": "/github_finder_react_2020_2021/index.html",
+    "precache-manifest.30f4b3adf8cb7ecd21defcfdaced5639.js": "/github_finder_react_2020_2021/precache-manifest.30f4b3adf8cb7ecd21defcfdaced5639.js",
+    "service-worker.js": "/github_finder_react_2020_2021/service-worker.js",
+    "static/css/main.bc1a1419.chunk.css.map": "/github_finder_react_2020_2021/static/css/main.bc1a1419.chunk.css.map",
+    "static/js/2.30d23f95.chunk.js.LICENSE.txt": "/github_finder_react_2020_2021/static/js/2.30d23f95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d04fe9f4.js",
+    "static/js/2.30d23f95.chunk.js",
+    "static/css/main.bc1a1419.chunk.css",
+    "static/js/main.35435e14.chunk.js"
+  ]
+}
