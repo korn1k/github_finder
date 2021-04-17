@@ -2,7 +2,7 @@
   "name": "github-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://korn1k.github.io/github_finder_react_2020_2021/",
+  "homepage": "http://korn1k.github.io/github_finder_react_2020_2021/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
