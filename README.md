@@ -4,4 +4,4 @@ Git Finder is a web application for searching people on GitHub and viewing gener
 
 TECHNOLOGIES: JavaScript, React.js, CSS, Bootstrap, HTML, Github api.
 
-URL to view live example: https://git-finder-react.web.app/
+URL to view live example: https://git-finder-react.web.app/ (Adequate Mobile View included)
